@@ -16,7 +16,7 @@ const CONFIG = {
   openInNewTab: true,
   twelveHourFormat: false,
   title: 'Bento',
-
+	theme: 'latte-macchiato'
 	// Greetings
 	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afternoon,',
